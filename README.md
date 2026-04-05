@@ -187,7 +187,8 @@
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 [GitHub Desktop](https://desktop.github.com/)
-[GitHub Desktop](https://github.com/lkyero/GitHubDesktop_zh?tab=readme-ov-file)
+
+[GitHub Desktop zh](https://github.com/lkyero/GitHubDesktop_zh?tab=readme-ov-file)
 
 #### 效率软件
 
